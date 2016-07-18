@@ -1,0 +1,1 @@
+$audio.animate({volume: 0.5}, 1000);
